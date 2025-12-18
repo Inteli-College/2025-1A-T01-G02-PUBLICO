@@ -161,7 +161,7 @@ In the process of modeling volatility dynamics in the options market, several an
 - **Data Quality and Granularity:**  
   The presence of liquidity gaps, discontinuous trading intervals, or delayed data can further complicate the curve-fitting process, leading to potential misinterpretations of market behavior.
 
-### 4.2KPIs in the Modeling Process
+### 4.2 KPIs in the Modeling Process
 
 Tracking Key Performance Indicators (KPIs) is pivotal for assessing and improving the performance of volatility models. KPIs provide a structured way to monitor both the accuracy and reliability of the models and help to identify areas that require refinement. Here are some key reasons why KPIs are indispensable:
 
@@ -271,3 +271,130 @@ The encouraging preliminary results motivate further refinements in subsequent m
 
 This continuous evolution of the modeling framework will not only solidify its application in pricing and risk management but also contribute to broader research and strategic financial decision-making.
 
+
+
+# **Module 2 Report – Volatility Curve Fitting in the Options Market**
+
+## Sprint 1
+
+During the first sprint, the initial planning of the module was carried out, focusing on the organization and completion of the official documentation required by the academic institution. In addition, the algorithm developed in the previous module was refactored to improve code readability and efficiency, aligning it with best development practices.
+
+## Sprint 2
+
+In the second sprint, a thorough analysis of potential journals for article submission was conducted. Academic journals, magazines, and renowned conferences were considered. After evaluating the options, it was decided to submit the article to *IEEE Magazine* due to its visibility and thematic alignment.
+
+## Sprint 3
+
+During the third sprint, the methodology section of the article was written, providing a detailed description of the algorithm’s application and the tests carried out. Additionally, the introduction was initiated, including the contextualization of the research problem and the definition of the study’s objectives.
+
+## Sprint 4
+
+The fourth sprint focused on completing the introduction and writing the results section. Tables and quantitative analyses were included, accompanied by a critical interpretation of the data, strengthening the scientific argumentation of the article.
+
+## Sprint 5
+
+In the fifth and final sprint, the article’s conclusion was developed and the complete manuscript underwent a thorough revision. It was decided to adopt the *IEEE Access* template, considering the possibility of publishing in that journal. Furthermore, feedback from the peer review process was incorporated to enhance the final quality of the work.
+
+# **Module 3 Report – Volatility Curve Fitting in the Options Market**
+
+#### Sprint 1
+
+During the progress of Module 3 of the project, there was a significant change in the supervision structure: the replacement of the responsible advisor. This change required some adjustments in planning and in communications with the parties involved.
+
+Among the main actions resulting from this change, the following stand out:
+
+1. **Contact with the project partner**
+
+    It was necessary to reach out to the project partner to introduce the new advisor, ensuring that both were aligned regarding the objectives, deadlines, and requirements already established.
+
+2. **Inclusion of the new advisor in the confidentiality agreement (NDA)**
+
+    The process of contacting the new advisor to formally include them in the current NDA was initiated, in order to ensure access to restricted materials and enable them to perform their role in full legal compliance.
+
+Despite these changes and the necessary adjustments, the overall impact on the schedule was minimal. There was a small delay in carrying out some steps, but nothing that compromises the project’s final delivery deadline or the quality of the expected results.
+
+#### Sprint 2
+
+At this stage of the project, the main focus was the internal sharing of the article with the faculty advisors. The material was submitted for an initial review and received a first set of structured feedback from one of the advisors.
+
+The feedback received was analyzed and served as the basis for developing an adjustment plan for the article.
+
+In terms of schedule, the progress of Sprint 2 remained as expected, without significant delays. However, approval from the project partner is still pending for submission and publication of the article.
+
+During this sprint 2, the article was internally reviewed and received structured feedback. Based on this evaluation, we initiated the implementation of the suggested improvements. The main adjustments being carried out are:
+
+- Replace “orienter/student” terminology with neutral scientific writing, removing - references to roles not relevant to the academic community.
+
+- Replace “partner’s algorithm” with appropriate terms such as “reference - technique,” “benchmark technique,” or “gold standard technique,” supported by - academic references.
+
+- Add quantitative results to substantiate claims (numerical evidence for - superiority of the proposed method).
+
+- Revise citations: “several studies” must be supported by at least four - references, or wording adjusted accordingly.
+
+- Move company names (e.g., BTG Pactual) to acknowledgments and replace with - academic references when comparing methods.
+
+- Remove irrelevant statements regarding intellectual property and confidentiality - restrictions.
+
+- Revise Table 1:
+
+    - Use single-letter notation for variables (e.g., e, K, V).
+
+    - Define or reference all variables (n, Kᵢ, Vᵢ).
+
+    - Remove trivial formulas (e.g., mean), while clarifying less common terms (e.g., strike price).
+
+- Improve mathematical notation consistency: replace words in equations (e.g., - inlier, interp, pair) with symbols or letters; adjust “Minimization Function” → - “Cost Function.”
+
+- Clarify definition of weights (w) in Eq. 10.
+
+- Restructure Results section: move methodological descriptions to Methods; enrich the discussion of results and consider renaming section to “Results and - Discussion.”
+
+- Revise Table 2:
+
+    - Reduce excessive significant figures.
+
+    - Verify large discrepancies between methods to exclude implementation errors.
+
+    - Replace standard deviation with coefficient of variation for better comparability.
+
+    - Remove redundancy in “Mean MSE.”
+
+- Simplify Table 3: integrate single-value results directly into the text.
+
+- Expand results interpretation with clear comparative insights (e.g., performance gains expressed as percentages).
+
+- Improve figure readability (use two-column width when needed).
+
+- Enhance the Discussion with more depth, separating it clearly from Results.
+
+- Refine the Conclusion: remove unrelated literature review paragraphs; maintain focus on contributions and findings.
+
+- Correct minor text issues (e.g., “volatility volatility” repetition).
+
+#### Sprint 3
+
+In Sprint 3, the team continued working on the implementation of the mapped feedback received for revisions to the article. The partner’s confirmation for publication is still pending, but additional attempts have been made to establish contact and expedite their response.
+
+Furthermore, the preparation of a scientific initiation report was initiated, aiming at approval by the educational institution and the recognition of complementary academic hours.
+
+#### Sprint 4
+
+In this stage, the final implementations of the feedback received from the faculty advisors were completed.
+
+Additionally, during this sprint, the awaited response from the partner was obtained. The partner confirmed receipt of the updated material and initiated their internal review process.
+
+From the perspective of schedule, Sprint 4 maintained consistency with the planning. Next steps are to structure the final presentation for the next, and final module.
+
+#### Sprint 5
+
+During Sprint 5, the focus was on consolidating and finalizing the adjustments based on the complete set of feedback received from the academic advisors. All points raised in the review process were carefully analyzed, and implemented.
+
+Among the most relevant changes were the clarification of definitions, the restructuring of sections to improve coherence and flow, and the enhancement of quantitative results to better support the conclusions. The redundant or unclear elements were removed, and all terminology was standardized for technical precision and academic consistency.
+
+Several specific adjustments also stand out: the article now includes additional references to substantiate the theoretical framework, reformulated equations with explicit parameter definitions, and improved presentation of figures and tables for greater readability. Sections were reorganized to ensure proper logical sequence, with the “Results and Discussion” section now clearly separating methodological content from analysis.
+
+Regarding partner communication, a new response was received during this sprint, confirming that the material is under active review. The feedback loop with the partner has become more dynamic, and progress in the approval and publication process appears to be advancing at a faster pace.
+
+# **Module 4 Report – Volatility Curve Fitting in the Options Market**
+
+During Module 4, the project reached its final stage, focusing on consolidation, validation, and formal dissemination of the research results. After completing all revisions suggested by academic advisors and incorporating the final round of improvements, the scientific article was finalized. The manuscript was then submitted to the Journal of Alternative Investments (JAI).
